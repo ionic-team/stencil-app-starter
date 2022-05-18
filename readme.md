@@ -1,5 +1,18 @@
 # Stencil App Starter
 
+:warning: :package: This project has moved to the Stencil Community :package: :warning:
+
+This project has been moved to the Stencil Community.
+Going forward, it will be maintained by members of the Stencil community, rather than Ionic.
+Please see the [new repository](https://github.com/stencil-community/stencil-app-starter) for updates to the application starter going forward.
+
+This repository has been kept in readonly/archive mode for users of v1/v2 of the create-stencil CLI (`npm init stencil`).
+As of create-stencil v3, the application starter will use the community maintained version.
+
+The documentation below is kept for historical purposes only.
+
+---
+
 Stencil is a compiler for building fast web apps using Web Components.
 
 Stencil combines the best concepts of the most popular frontend frameworks into a compile-time rather than run-time tool.  Stencil takes TypeScript, JSX, a tiny virtual DOM layer, efficient one-way data binding, an asynchronous rendering pipeline (similar to React Fiber), and lazy-loading out of the box, and generates 100% standards-based Web Components that run in any browser supporting the Custom Elements v1 spec.
